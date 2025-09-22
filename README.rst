@@ -1,4 +1,5 @@
-# Sage UPJŠ
+Sage UPJŠ
+============
 Jupyter notebook bežiaci online na serveri Binder s kernelmi SageMath, Python, R, Julia, Octave, JavaScript
 
 .. image:: https://mybinder.org/badge_logo.svg
